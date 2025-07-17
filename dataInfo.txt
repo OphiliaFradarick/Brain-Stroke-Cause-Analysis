@@ -1,0 +1,9 @@
+pandas - Used for data analysis and data manupulation of data
+numpy - uses arrays for inputs and outputs
+scipy - it can be used to solve integrals, solving differential equation and optimization
+
+matplotlib - used for generating plots and graphs
+Seaborn: it is based on matplotlib. It can be used to create heat maps, time series, violin plots etc...
+
+scikit-learn: This library is built in numpy, scipy and matplotlib. It is used for machine learning analysis such as regression, classification and so on.
+statsmodel: It is used for explore data, estimate statistical models and perform statistical tests
